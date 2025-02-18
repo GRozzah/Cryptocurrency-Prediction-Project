@@ -1,6 +1,8 @@
 # Cryptocurrency Analysis and Prediction
 
 This project performs cryptocurrency data analysis and prediction using machine learning and time series forecasting techniques. It focuses on gathering, cleaning, and transforming historical cryptocurrency data, followed by applying various models for predicting future trends.
+![Cryptocurrency](crypto_logo.jpg)
+
 
 ## Table of Contents
 
